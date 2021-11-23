@@ -218,7 +218,7 @@ def traducir(result):
 	graphFile.close()
 	print("El programa traducido se almaceno en \"graphviztrhee.vz\"")
 
-directorio = '/Users/santy_arango/Desktop/Proyecto/compilador/test/'
+directorio = '/Users/yessicaquintero/Documents/repos/compilador/compiladores/Proyecto/compilador/test/'
 archivo = buscarFicheros(directorio)
 test = directorio+archivo
 fp = codecs.open(test,"r","utf-8")

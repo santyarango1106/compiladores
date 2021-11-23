@@ -1222,4 +1222,3 @@ state 78
     WHILE           reduce using rule 11 (procDecl -> procDecl PROCEDURE ID SEMMICOLOM block SEMMICOLOM .)
     $end            reduce using rule 11 (procDecl -> procDecl PROCEDURE ID SEMMICOLOM block SEMMICOLOM .)
     SEMMICOLOM      reduce using rule 11 (procDecl -> procDecl PROCEDURE ID SEMMICOLOM block SEMMICOLOM .)
-
