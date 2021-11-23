@@ -6,3 +6,4 @@ PROCEDURE fact;
 		IF n > 0 THEN CALL fact;
 		f:=f*ans1;
 	END;
+	

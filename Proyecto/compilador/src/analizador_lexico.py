@@ -82,7 +82,7 @@ def buscarFicheros(directorio):
 
 
 #El directorio cambia de acuerdo a a la ruta donde se aguaede el archivo.
-directorio = '/Users/santy_arango/Desktop/Proyecto/compilador/test/'
+directorio = '/Users/yessicaquintero/Documents/repos/compilador/compiladores/Proyecto/compilador/test/'
 archivo = buscarFicheros(directorio)
 test = directorio+archivo
 fp = codecs.open(test,"r","utf-8")
